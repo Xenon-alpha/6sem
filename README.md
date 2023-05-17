@@ -1,1 +1,1 @@
-# 6sem
+# 6sem MIPT, database course
